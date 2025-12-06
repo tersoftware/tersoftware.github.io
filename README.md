@@ -1,7 +1,7 @@
 | edicao | titulo | autor | software | url |
 |--------|--------|--------|----------|-----|
 | 70 | Fitness | @autobrain@arram.senta-la.cloud | Zombies, Run! | https://www.zombiesrungame.com/ |
-| 70 | Fitness | @buca@ursal.zone | 5K Runner: Couch Potato to 5K | https://en.wikipedia.org/wiki/Couch_to_5K |
+| 70 | Fitness | @buca@ursal.zone | 5K Runner: Couch Potato to 5K | https://play.google.com/store/apps/details?id=com.clearskyapps.fitnessfamily.Run5K |
 | 70 | Fitness | @diegopds@bolha.us | Seconds Interval Timer | https://alternativeto.net/software/seconds-interval-timer/?license=opensource |
 | 70 | Fitness | @guisso@bolha.one | MuscleWiki | https://www.musclewiki.org/ |
 | 70 | Fitness | @Luanaaaa@colorid.es | Hevy | https://apps.apple.com/app/id1458862350 |
