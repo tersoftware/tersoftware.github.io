@@ -994,16 +994,16 @@
 | 64 | Favoritos CLI | @lffontenelle@mastodon.social | Git | https://git-scm.com/ |
 | 64 | Favoritos CLI | @lffontenelle@mastodon.social | Todo.txt | https://todo.txt.org/ |
 | 64 | Favoritos CLI | @loop0@freeradical.zone | Fish Shell | https://fishshell.com/ |
-| 64 | Favoritos CLI | @luiz_im@bolha.us | Fish | https://fishshell.com/ |
 | 64 | Favoritos CLI | @luiz_im@bolha.us | yt-dlp | https://yt-dlp.org/ |
+| 64 | Favoritos CLI | @luiz_im@bolha.us | Fish | https://fishshell.com/ |
 | 64 | Favoritos CLI | @miguel@bertha.social | Ephemetoot | https://ephemetoot.hugh.run/ |
 | 64 | Favoritos CLI | @mjaneai@bolha.one | rsnapshot | https://rsnapshot.org/ |
-| 64 | Favoritos CLI | @morgaelyn@bolha.us | Atuin | https://atuin.sh/ |
-| 64 | Favoritos CLI | @morgaelyn@bolha.us | Ranger | https://ranger.github.io/ |
 | 64 | Favoritos CLI | @morgaelyn@bolha.us | LazyGit | https://lazygit.org/ |
+| 64 | Favoritos CLI | @morgaelyn@bolha.us | Ranger | https://ranger.github.io/ |
+| 64 | Favoritos CLI | @morgaelyn@bolha.us | Atuin | https://atuin.sh/ |
 | 64 | Favoritos CLI | @obbeel@bolha.us | PulseAudio Volume Control | https://freedesktop.org/software/pavucontrol/ |
-| 64 | Favoritos CLI | @oigreslima@fed.sfl.pro.br | Lynx | https://lynx.invisible-island.net/ |
 | 64 | Favoritos CLI | @oigreslima@fed.sfl.pro.br | Gopher | https://gopher.floodgap.com/gopher/gw?=gopher.floodgap.com+70+392f676f706865722f636c69656e74732f676f70686572325f332e7461722e677a |
+| 64 | Favoritos CLI | @oigreslima@fed.sfl.pro.br | Lynx | https://lynx.invisible-island.net/ |
 | 64 | Favoritos CLI | @Ze_Andarilho@capivarinha.club | PyRadio | https://pypi.org/project/pyradio/ |
 | 65 | Podcasts 2025 | @ale@bantu.social | AntennaPod | https://antennapod.org |
 | 65 | Podcasts 2025 | @alecrim@bolha.us | Pocket Casts - Podcast App | https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts |
@@ -1012,44 +1012,44 @@
 | 65 | Podcasts 2025 | @cd@capivarinha.club | Kasts | https://apps.kde.org/kasts/ |
 | 65 | Podcasts 2025 | @felipesiles@ayom.media | Ayom | https://podcasts.ayom.media/ |
 | 65 | Podcasts 2025 | @luiz_im@bolha.us | AntennaPod | https://antennapod.org |
-| 65 | Podcasts 2025 | @luiz_im@bolha.us | Rhythmbox | https://www.rhythmbox.org/ |
 | 65 | Podcasts 2025 | @luiz_im@bolha.us | Kdenlive | https://floss.social/@kdenlive |
-| 66 | Melhores Forks | @cadusilva@bolha.one | LibreSSL | https://www.libressl.org/ |
-| 66 | Melhores Forks | @cadusilva@bolha.one | Valkey | https://valkey.org/ |
-| 66 | Melhores Forks | @cadusilva@bolha.one | Dragonfly | https://dragonflydb.io/ |
-| 66 | Melhores Forks | @cadusilva@bolha.one | Chuckya | https://github.com/chuckya/mastodon |
+| 65 | Podcasts 2025 | @luiz_im@bolha.us | Rhythmbox | https://www.rhythmbox.org/ |
 | 66 | Melhores Forks | @cadusilva@bolha.one | AWS-LC | https://github.com/awslabs/aws-lc |
-| 66 | Melhores Forks | @cadusilva@bolha.one | glitch-soc | https://github.com/glitch-soc/mastodon |
 | 66 | Melhores Forks | @cadusilva@bolha.one | Quictls | https://github.com/quictls/openssl |
-| 66 | Melhores Forks | @daltux@snac.daltux.net | OpenOffice | https://www.openoffice.org/ |
+| 66 | Melhores Forks | @cadusilva@bolha.one | LibreSSL | https://www.libressl.org/ |
+| 66 | Melhores Forks | @cadusilva@bolha.one | glitch-soc | https://github.com/glitch-soc/mastodon |
+| 66 | Melhores Forks | @cadusilva@bolha.one | Chuckya | https://github.com/chuckya/mastodon |
+| 66 | Melhores Forks | @cadusilva@bolha.one | Dragonfly | https://dragonflydb.io/ |
+| 66 | Melhores Forks | @cadusilva@bolha.one | Valkey | https://valkey.org/ |
 | 66 | Melhores Forks | @daltux@snac.daltux.net | LibreOffice | https://www.libreoffice.org |
 | 66 | Melhores Forks | @daltux@snac.daltux.net | Apache OpenOffice | https://www.openoffice.org/ |
+| 66 | Melhores Forks | @daltux@snac.daltux.net | OpenOffice | https://www.openoffice.org/ |
 | 66 | Melhores Forks | @DogaoComputaCAO@mastodon.social | CachyOS | https://cachyos.org |
 | 66 | Melhores Forks | @DogaoComputaCAO@mastodon.social | Zen Browser |  |
 | 66 | Melhores Forks | @enqfila@mastodon.com.br | Moshidon |  |
 | 66 | Melhores Forks | @gui@burnthis.town | MariaDB | https://mariadb.org/ |
 | 66 | Melhores Forks | @jedi@bolha.us | ZenBrowser | https://floss.social/@zenbrowser |
+| 66 | Melhores Forks | @luiz_im@bolha.us | GrapheneOS | https://www.grapheneos.org |
 | 66 | Melhores Forks | @luiz_im@bolha.us | Waterfox | https://waterfox.net/ |
 | 66 | Melhores Forks | @luiz_im@bolha.us | Audacity | https://www.audacityteam.org/ |
 | 66 | Melhores Forks | @luiz_im@bolha.us | MATE Desktop | https://mate-desktop.org/pt_br/ |
-| 66 | Melhores Forks | @luiz_im@bolha.us | GrapheneOS | https://www.grapheneos.org |
-| 66 | Melhores Forks | @luiz_im@bolha.us | Mamba | https://mamba.readthedocs.io/en/latest/ |
+| 66 | Melhores Forks | @luiz_im@bolha.us | LineageOS | https://lineageos.org |
 | 66 | Melhores Forks | @luiz_im@bolha.us | OpenOffice | https://www.openoffice.org/ |
 | 66 | Melhores Forks | @luiz_im@bolha.us | LibreOffice | https://www.libreoffice.org |
-| 66 | Melhores Forks | @luiz_im@bolha.us | LineageOS | https://lineageos.org |
-| 66 | Melhores Forks | @miguel@bertha.social | Tuba | https://snac.daltux.net?t=tuba |
+| 66 | Melhores Forks | @luiz_im@bolha.us | Mamba | https://mamba.readthedocs.io/en/latest/ |
 | 66 | Melhores Forks | @miguel@bertha.social | Tubular | https://github.com/polymorphicshade/Tubular |
+| 66 | Melhores Forks | @miguel@bertha.social | Tuba | https://snac.daltux.net?t=tuba |
 | 66 | Melhores Forks | @oigreslima@fed.sfl.pro.br | Nextcloud | https://nextcloud.com/ |
 | 66 | Melhores Forks | @solr4ctg@hachyderm.io | LibreWolf | https://librewolf.net/ |
-| 66 | Melhores Forks | @thirteentheri@burnthis.town | Mihon | https://mihon.app |
 | 66 | Melhores Forks | @thirteentheri@burnthis.town | Komikku | https://komikku.app |
+| 66 | Melhores Forks | @thirteentheri@burnthis.town | Mihon | https://mihon.app |
 | 66 | Melhores Forks | @umaruru@capivarinha.club | Tenacity | https://tenacityaudio.org/ |
 | 66 | Melhores Forks | @usuario | LibreOffice | https://www.libreoffice.org |
 | 66 | Melhores Forks | @usuario | OpenOffice | https://www.openoffice.org/ |
 | 66 | Melhores Forks | @zarabatana@bantu.social | PIX | https://pt.wikipedia.org/wiki/PIX |
 | 67 | Apps salvadores no celular | @AlexMonteAlto@burnthis.town | URL Checker | https://f-droid.org/packages/com.trianguloy.urlchecker |
-| 67 | Apps salvadores no celular | @autobrain@arram.senta-la.cloud | Backblaze | https://www.backblaze.com/ |
 | 67 | Apps salvadores no celular | @autobrain@arram.senta-la.cloud | Bring! | https://www.getbring.com |
+| 67 | Apps salvadores no celular | @autobrain@arram.senta-la.cloud | Backblaze | https://www.backblaze.com/ |
 | 67 | Apps salvadores no celular | @cadusilva@bolha.one | Shadowsocks | https://shadowsocks.org/ |
 | 67 | Apps salvadores no celular | @cadusilva@bolha.one | Fossify Phone |  |
 | 67 | Apps salvadores no celular | @cadusilva@bolha.one | Screenshot Tile | https://f-droid.org/en/packages/com.github.cvzi.screenshottile |
@@ -1151,5 +1151,4 @@
 | 70 | Fitness | @nunesdennis@vivaldi.net | Strava | https://www.strava.com |
 | 70 | Fitness | @nunesdennis@vivaldi.net | Hevy | https://apps.apple.com/app/id1458862350 |
 | 70 | Fitness | @nunesdennis@vivaldi.net | HealthKit | https://developer.apple.com/documentation/healthkit |
-| 70 | Fitness | @solr4ctg@hachyderm.io | wger | https://wger.de |
 | 70 | Fitness | @solr4ctg@hachyderm.io | wger | https://wger.de |
